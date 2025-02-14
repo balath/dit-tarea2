@@ -165,10 +165,10 @@ Bernoulli NP Bernoulli
 one CD one
 of IN of
 the DT the
-" `` "
+" PUNCT
 early JJ early
 developers NNS developer
-" '' "
+" PUNCT
 of IN of
 calculus NN calculus
 ) ) )
@@ -180,7 +180,7 @@ Jacob NP Jacob
 Bernoulli NP Bernoulli
 ( ( (
 who WP who
-" `` "
+" PUNCT
 was VBD be
 the DT the
 first JJ first
@@ -190,11 +190,11 @@ the DT the
 theory NN theory
 of IN of
 probability NN probability
-" '' "
+" PUNCT
 ) ) )
 . .
 He PRP he
-had VHD have
+had VBD have
 two CD two
 brothers NNS brother
 , , ,
@@ -213,7 +213,7 @@ W. NP W.
 Rouse NP Rouse
 Ball NP Ball
 as IN as
-" `` "
+" PUNCT
 by IN by
 far RB far
 the DT the
@@ -222,14 +222,14 @@ of IN of
 the DT the
 younger JJR young
 Bernoullis NP Bernoullis
-" '' "
+" PUNCT
 . .
 He PRP he
 is VBZ be
 said VBN say
 to TO to
-have VH have
-had VHN have
+have VB have
+had VBN have
 a DT a
 bad JJ bad
 relationship NN relationship
@@ -738,7 +738,7 @@ Europe NP Europe
 were VBD be
 measuring VBG measure
 patients NNS patient
-' POS '
+' PART
 blood NN blood
 pressure NN pressure
 by IN by

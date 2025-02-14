@@ -208,8 +208,8 @@ Bernoulli NP
 was VBD
 described VBN
 by IN
-W .
-W .
+W. NP
+W. NP
 Rouse NP
 Ball NP
 as IN

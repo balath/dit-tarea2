@@ -92,16 +92,8 @@ the DET
 airplane NOUN
 wing NOUN
 . PUNCT
-Daniel PROPN
-Bernoulli PROPN
 Early ADJ
 life NOUN
-Frontpage PROPN
-of ADP
-Hydrodynamica PROPN
-( PUNCT
-1738 NUM
-) PUNCT
 Daniel PROPN
 Bernoulli PROPN
 was AUX
