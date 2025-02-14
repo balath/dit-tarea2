@@ -2,7 +2,8 @@
 #### Sergio Flor García (sflor5@alumno.uned.es)
 
 En este repositorio se incluyen:
-+ [Texto de prueba utilizado en la tarea]()
++ [Texto de prueba utilizado en la tarea tal como aparece en el GUM corpus]()
++ [Texto de prueba extraído en formato plano]()
 + [Texto de prueba con etiquetado _Penn Treebank_]()
 + [Texto de prueba con etiquetado _Universal POS tags_]()
 + [Resultado de aplicar _TreeTagger_ al texto de prueba]()
