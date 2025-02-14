@@ -7,5 +7,5 @@ En este repositorio se incluyen:
 + [Texto de prueba con etiquetado _Penn Treebank_]()
 + [Texto de prueba con etiquetado _Universal POS tags_](taggedUniversal.txt)
 + [Resultado de aplicar _TreeTagger_ al texto de prueba]()
-+ [Resultado de aplicar _Stanza_ al texto de prueba](stanzaResult.txt)
++ [Resultado de aplicar _Stanza_ al texto de prueba](stanzaOutput.txt)
 + [Script para comparar resultados y texto etiquetado](taggers.scala)
