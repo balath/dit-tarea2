@@ -15,7 +15,7 @@ object LexicalTagComparison extends App:
       .zip(obtained)
       .map((tag1, tag2) =>
         if tag1._2 == tag2._2 then None
-        else Some(s"Word: ${tag1._1} Expected: ${tag1._2} \tObtained: ${tag2._2}")
+        else Some(s"Expected: ${tag1._2} \tObtained: ${tag2._2}")
       )
     val errorOcurrencesByKind = errorList
       .filter(_.isDefined)
