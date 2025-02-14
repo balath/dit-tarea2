@@ -2,10 +2,10 @@
 #### Sergio Flor García (sflor5@alumno.uned.es)
 
 En este repositorio se incluyen:
-+ [Texto de prueba utilizado en la tarea tal como aparece en el GUM corpus]()
-+ [Texto de prueba extraído en formato plano]()
++ [Texto de prueba utilizado en la tarea tal como aparece en el GUM corpus](GUM_bio_bernoulli.conllu)
++ [Texto de prueba extraído en formato plano](plainText.txt)
 + [Texto de prueba con etiquetado _Penn Treebank_]()
-+ [Texto de prueba con etiquetado _Universal POS tags_]()
++ [Texto de prueba con etiquetado _Universal POS tags_](taggedUniversal.txt)
 + [Resultado de aplicar _TreeTagger_ al texto de prueba]()
-+ [Resultado de aplicar _Stanza_ al texto de prueba]()
-+ [Script para comparar resultados y texto etiquetado]()
++ [Resultado de aplicar _Stanza_ al texto de prueba](stanzaResult.txt)
++ [Script para comparar resultados y texto etiquetado](taggers.scala)
