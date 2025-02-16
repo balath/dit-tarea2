@@ -1,8 +1,8 @@
 import scala.io.Source
 
 object LexicalTagComparison extends App:
-  val expectedTags = readTags("src/main/scala/taggedUniversal.txt")
-  val obtainedTags = readTags("src/main/scala/stanzaOutput.txt")
+  val expectedTags = readTags("src/main/scala/taggedUPOS.txt")
+  val obtainedTags = readTags("src/main/scala/stanzaOutputUPOS.txt")
   val (errorsMap, matches) = compare(expectedTags, obtainedTags)
   println(s"\nAciertos: $matches de ${expectedTags.length}")
   println(s"Precisión: ${(matches.toDouble / expectedTags.length) * 100}")
